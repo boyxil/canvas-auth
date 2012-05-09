@@ -1,9 +1,6 @@
 Canvas Auth
 ===========
 
-Overview
---------
-
 A multiton based authentication module with interchangeable authorization contexts based on the state design pattern.  
 
 canvas-auth is designed to be lightweight, flexible and modular.  
